@@ -1,1 +1,1 @@
-<?php header( 'index.html' ) ;  ?>
+<?php header( 'Eshop-frontend/index.html' ) ;  ?>
