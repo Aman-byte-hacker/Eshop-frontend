@@ -1,1 +1,5 @@
-<?php header( 'Eshop-frontend/index.html' ) ;  ?>
+<?php
+
+include_once("index.html")
+
+?>
